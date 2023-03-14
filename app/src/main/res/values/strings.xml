@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">MaqMovilUX</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Usuario</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="action_sign_in">INGRESAR</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="signup">Registrarse</string>
+    <string name="registrar">REGISTRAR</string>
+    <string name="volver">VOLVER</string>
+    <string name="registrese">Regístrese</string>
+    <string name="correo">Correo</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="nombre_completo">Nombre Completo</string>
+    <string name="telefono">Teléfono</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+    <string name="title_activity_activities">activities</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="actividades">Actividades</string>
+    <string name="agregar">agregar</string>
+    <string name="asociar_usuario">Asociar Usuario</string>
+    <string name="administrar_solicitudes">Administrar Solictudes</string>
+    <string name="detalle_actividad">Detalle Actividad</string>
+    <string name="detalle_alarma">Detalle Alarma</string>
+    <string name="nombre">Nombre</string>
+    <string name="fecha_inicio">Fecha Inicio</string>
+    <string name="fecha_fin">Fecha Fin</string>
+    <string name="hora_inicio">Hora Inicio</string>
+    <string name="seleccione_dias">Seleccione los Dias en los que se va a ejecutar la alarma</string>
+    <string name="lunes">Lunes</string>
+    <string name="martes">Martes</string>
+    <string name="miercoles">Miércoles</string>
+    <string name="jueves">Jueves</string>
+    <string name="viernes">Viernes</string>
+    <string name="sabado">Sábado</string>
+    <string name="domingo">Domingo</string>
+    <string name="guardar">GUARDAR</string>
+    <string name="correo_cuenta">Correo Cuenta</string>
+    <string name="confirmar_correo">Confirmar Correo</string>
+    <string name="asociar_cuenta">Asociar Cuenta</string>
+    <string name="admin_solicitudes">Admin Solicitudes</string>
+    <string name="alarmas">Alarmas</string>
+    <string name="ordenar">Ordenar</string>
+    <string name="tiempo_desde_actividad">Tiempo Desde Actividad</string>
+    <string name="tiempo_desde_alarma">Tiempo Desde Alarma</string>
+    <string name="gps_usuario">GPS Usuario</string>
+    <string name="desc_tipo_alarma">Define una alarma unos minutos luego del inicio de la actividad</string>
+    <string name="distancia_minutos">Distancia Minutos</string>
+    <string name="seleccione_usuario_gps">Seleccione Usuario Gps</string>
+    <string name="seleccione_alarma_usuario">Seleccione Alarma Usuario</string>
+    <string name="gestos">Los gestos permiente definir las acciones para confirmar o posponer una alarma</string>
+    <string name="seleccione_gesto_confirmar">Seleccione Gesto Confirmar</string>
+    <string name="seleccione_gesto_posponer">Seleccione Gesto Posponer</string>
+    <string name="tono">Tono</string>
+    <string name="reordenar_alarmas">Reordenar Alarmas</string>
+    <string name="reordernar_help">reordernar_help</string>
+
+</resources>
